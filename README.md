@@ -56,3 +56,8 @@ Amazon S3 is an object storage service that provides manufacturing scalability, 
 ## Amazon Kinesis Firehose  
 
 Amazon Kinesis Data Firehose is a fully managed service that delivers real-time streaming data to Amazon S3, Amazon Redshift, and other destinations. Along with Kinesis Data Streams, Kinesis Video Streams, and Amazon Kinesis Data Analytics, Kinesis Data Firehose is part of the Kinesis streaming data platform. The user does not need to create apps or manage resources while using Kinesis Data Firehose. Simply set up the data producers to transmit data to Kinesis Data Firehose, and the data will be sent to the designated destination automatically. The data can also be transformed before being delivered using Kinesis Data Firehose.  
+
+# Architecture
+
+![Capture96](https://user-images.githubusercontent.com/63191063/217820459-e8e26717-f5f5-4169-a4a1-0394d66421af.PNG)
+
